@@ -4,8 +4,8 @@
 
 - [x] 慕课网
   - [x] [免费课](./imooc/free.md)
-  - [x] 实战课
-  - [x] 体系课
+  - [x] [实战课](./imooc/shizhan.md)
+  - [x] [体系课](./imooc/tixi.md)
 - [ ] 极客时间
 - [ ] 图灵学院
 - [ ] 博学谷
