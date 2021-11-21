@@ -13,6 +13,7 @@
   - [x] 讲堂 (小计217)
     - [x] [专栏](./jikeshijian/zhuanlan.md) (174)
     - [x] [视频课](./jikeshijian/zhuanlan.md) (43)
+  - [x] [训练营](./jikeshijian/xunlianying.md) (8)
 - [ ] 图灵学院
 - [ ] 博学谷
 - [ ] 大厂学院
