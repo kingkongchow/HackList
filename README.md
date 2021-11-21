@@ -10,7 +10,7 @@
   - [x] [免费课](./study163/free.md) (4223)
   - [x] [VIP课](./study163/vip.md) (9438)
 - [x] 极客时间https://time.geekbang.org (2021-11-21目录更新)
-  - [x] [讲堂] (217)
+  - [x] 讲堂 (小计217)
     - [x] [专栏](./jikeshijian/zhuanlan.md) (174)
     - [x] [视频课](./jikeshijian/zhuanlan.md) (43)
 - [ ] 图灵学院
