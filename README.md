@@ -12,8 +12,18 @@
 - [x] 极客时间https://time.geekbang.org (2021-11-21目录更新)
   - [x] 讲堂课程 (小计217)
     - [x] [专栏](./jikeshijian/zhuanlan.md) (174)
-    - [x] [视频课](./jikeshijian/zhuanlan.md) (43)
-  - [x] 每日一课
+    - [x] [视频课](./jikeshijian/shipin.md) (43)
+  - [x] 每日一课 (小计1142)
+    - [x] [前端/移动](./jikeshijian/dailylesson_qianduan.md) (106)
+    - [x] [计算机基础](./jikeshijian/dailylesson_jisuanjijichu.md) (19)
+    - [x] [后端/架构](./jikeshijian/dailylesson_houduan.md) (418)
+    - [x] [AI/大数据](./jikeshijian/dailylesson_ai.md) (110)
+    - [x] [运维/测试](./jikeshijian/dailylesson_yunwei.md) (98)
+    - [x] [产品/运营](./jikeshijian/dailylesson_chanpin.md) (6)
+    - [x] [管理/成长](./jikeshijian/dailylesson_guanli.md) (54)
+    - [x] [人文/兴趣](./jikeshijian/dailylesson_renwen.md) (12)
+    - [x] [面试专场](./jikeshijian/dailylesson_mianshi.md) (15)
+    - [x] [个人成长](./jikeshijian/dailylesson_geren.md) (217)
   - [x] 大厂案例
   - [x] [训练营](./jikeshijian/xunlianying.md) (8)
 - [ ] 图灵学院
