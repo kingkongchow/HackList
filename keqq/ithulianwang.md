@@ -26,9 +26,7 @@
 | 24 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAYEhnWwGcB8oLiaJbficBJ5ibuAdH3IhDJCRlNPomUlbabCJcPFmrQyDiaiaWhco6pQLcM/356) | 2021版MCA架构师【马士兵教育】 | https://m.ke.qq.com/course/2707921 | 免费 |
 | 25 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCH6BQV6fCkL7dEs2guPVPlrJT0eKaVCAbfUBv0FTRgPaFicA4QF6LmjFP2MzqjNicHY/356) | Python数据分析小白入门【六星教育】 | https://m.ke.qq.com/course/3941891 | 免费 |
 | 26 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDRTAL91m3yYiaGT1haAiawW0U48Dn30NxKLpM9KpXicVIn1snzAGccX9XYINpfldejlA/356) | 继续教育6|短视频上热门|好物推荐|短视频制作| | https://m.ke.qq.com/course/2994329 | 免费 |
-| 27 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDahRKWAflX4z9ZagZaw3sibMibJImTp1qcLicddfEibCwRTDC3kkNoCVIqMianibQr0UtvI/356) |
-【松勤】软件测试0基础到项目实战系统学习全栈班1
-| https://m.ke.qq.com/course/4031276 | 7680 |
+| 27 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDahRKWAflX4z9ZagZaw3sibMibJImTp1qcLicddfEibCwRTDC3kkNoCVIqMianibQr0UtvI/356) |【松勤】软件测试0基础到项目实战系统学习全栈班1| https://m.ke.qq.com/course/4031276 | 7680 |
 | 28 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAW3DaibicHrgia7GoDdc4tuNxDuLKW2sbW9etQj9CvMvpBD8amMibiabHKRjquPo7sGugA/356) | 马士兵教育Java零基础体验课 | https://m.ke.qq.com/course/3101969 | 免费 |
 | 29 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCmzJm6SCSaeEfYCXXFdUsTSvWmXogcViaiapEWVbkibjQAr9SIuhBaL91vUGia1IAcDBI/356) | 2021逆袭web前端高级开发 | JS/React/VueJS/NodeJS框架实战 | https://m.ke.qq.com/course/97965 | 免费 |
 | 30 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLB1DXpfRO27KQiaO97ndW3Q2kbBzszWjyIEUUJ716fhJHlgBHDT7pwXQA3XcDShmzyY/356) | 马士兵亲授：99%人都会死的多线程调优难点 | https://m.ke.qq.com/course/3414461 | 1 |
@@ -88,9 +86,7 @@
 | 84 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCx31vPjTpp0ibIL4yDQibtV2MNsPzfA4pxUkNVzWnh5j9xsEVyXjQhK7y1z2Y0GeB3I/356) | 007-试讲链接 | https://m.ke.qq.com/course/2770416 | 免费 |
 | 85 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCaTg3T9YLiaTEsiangkDkJFic7TZrrSmUnvLJma2ibiaia5QRw6WJFMgme0uAQsiaEiarkZdo/356) | Redis高并发分布式锁~Redisson框架实现分布式锁【图灵课堂】 | https://m.ke.qq.com/course/474944 | 免费 |
 | 86 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAEIp0dnpg2ibW4jTOM1um1FtcUrXSlA88EvB4FjvsJofyXcMybBZmO4YKt2wpmtaOs/356) | Android移动互联网架构开发/音视频/Kotlin/Jetpack/Flutter/Java | https://m.ke.qq.com/course/341933 | 免费 |
-| 87 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBYwNvJQK5nvIk98uXfANSM46GbFactQytYMoveBmtpkIArVjWHuelluo2EqgVJcGk/356) |
-马哥Linux高端运维云计算就业班-教学总监老王主讲
-| https://m.ke.qq.com/course/291111 | 6280 |
+| 87 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBYwNvJQK5nvIk98uXfANSM46GbFactQytYMoveBmtpkIArVjWHuelluo2EqgVJcGk/356) |马哥Linux高端运维云计算就业班-教学总监老王主讲| https://m.ke.qq.com/course/291111 | 6280 |
 | 88 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAZ3QXGI1kOpz3Mdl8jsro9uJialLbXydXIognUwLUhRW3iajkrjJM00J7hGYA3OKWdU/356) | 软件测试Python/Java接口/App/RF自动化测试/测试开发 | https://m.ke.qq.com/course/310732 | 免费 |
 | 89 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDWmIRIn5FO9mjEApavXhoEWicxa2bVu2uzM0Fthu851GoIST8NHlHRUQaDjaW72ibsk/356) | 性能调优系列 深入理解Mysql索引底层数据结构与算法【图灵课堂】 | https://m.ke.qq.com/course/2770537 | 免费 |
 | 90 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLB3qeyXibzklMDHlsnUjluXyD1q5PMnGwEG4kDgtzuDAIkNyCIQoHyCxtict5hsLXEPA/356) | 接口测试工具之Postman【马士兵教育】 | https://m.ke.qq.com/course/3137635 | 0.02 |
@@ -142,9 +138,7 @@
 | 136 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLC4uHPkdicqMAjWACZ1RHK6AmM8d3sRibtg733IMV8DIwEqqeoOZncjFFDmp64FRp5TQ/356) | 自媒体运营|新媒体运营|微信公众号大鱼号百家号企鹅号 | https://m.ke.qq.com/course/261547 | 免费 |
 | 137 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBaEtR36wwcYokJ8kCxPJBOaczEXoAZrsRwLQkwWrvxceK8G5ezv5agbQeIMN9tDlw/356) | Python自动化监听键盘小白入门/视频教程/训练营【六星教育】 | https://m.ke.qq.com/course/3619266 | 1 |
 | 138 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCKbWJeMdpshDbEjib4t1F36u9zwKKDZBZmiakmJibRLeoMhJI6ic8X1ubJEjVUp3rmXLQ/356) | C#/.Net架构师GOF23种设计模式+设计模式六大原则+UML类图 体验课 | https://m.ke.qq.com/course/456617 | 免费 |
-| 139 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAAzKweRaicZbfvMKljFGqShtSKRPnLPJPXxft1jN0WwWAGtIKoq3xbdECxcmDZSRRg/356) |
-软件测试之python高级软件测试开发第11期【柠檬班VIP】
-| https://m.ke.qq.com/course/396060 | 12800 |
+| 139 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAAzKweRaicZbfvMKljFGqShtSKRPnLPJPXxft1jN0WwWAGtIKoq3xbdECxcmDZSRRg/356) |软件测试之python高级软件测试开发第11期【柠檬班VIP】| https://m.ke.qq.com/course/396060 | 12800 |
 | 140 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLB9dNojIlhedJoiasRnt7etcuBEoz4UmLhLlicHqjFVkic4rzLJtGhaf76S108yCyQ5RQ/356) | Java架构师,Java高级开发|java进阶大型互联网架构师专题【咕泡】 | https://m.ke.qq.com/course/185189 | 免费 |
 | 141 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCU9LujKTxZa20z8wsN3Gq5NLehgJQ5SE2HvlunqpTO0UnrT4geYFiaxQUicEzFcKcUk/356) | BAT大厂RocketMQ最佳实战-消息队列优化【楼兰老师】【图灵课堂】 | https://m.ke.qq.com/course/3266071 | 免费 |
 | 142 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAaL14BMIXwcNHJ6LJCFAmxd2sW2ic0zV1c2LXbzyvM0wRjIeM8FLVp9aNlZFE3PzAU/356) | VB/C#/.Net/全栈班体验(零基础/直播/录播) | https://m.ke.qq.com/course/2263230 | 免费 |
@@ -183,9 +177,7 @@
 | 175 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCibGgzDmQpzKoUXI7YxNqicvygpkdvIyOib1KrrmpfuZPnLHXqRxnrCYdfwP0Plnux2k/356) | 深入浅出ABP.vNext框架 添加微信：13163257325 | https://m.ke.qq.com/course/2962533 | 免费 |
 | 176 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA7EuhCpuKyM31QHqM1NszeroVP6r24lUiaJG0Q3FX2QaLXI51amFOpZicsrCOUcF0f4/356) | 抖音电商|抖音短视频推广|新媒体|淘宝客自媒体抖音运营上热门 | https://m.ke.qq.com/course/445397 | 免费 |
 | 177 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCZuLVhf1Ee2M79dzNUzpU1wmAtTc2VfIk6aYnwRh8wPxKY4shN8bvHDBq8XzSRoak/356) | BAT大厂OAuth2.0协议开发授权平台实战【图灵课堂】 | https://m.ke.qq.com/course/3323599 | 免费 |
-| 178 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAoiax49tia5fYH0fbImPkKn2Rg14seEQkhq5fnuLUsFQiaRh4Sqpkq4rPrdib87oRxVUQ/356) |
-【直播班】2021马哥云原生/微服务治理大厂冲刺班/名师亲授
-| https://m.ke.qq.com/course/340397 | 12800 |
+| 178 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAoiax49tia5fYH0fbImPkKn2Rg14seEQkhq5fnuLUsFQiaRh4Sqpkq4rPrdib87oRxVUQ/356) |【直播班】2021马哥云原生/微服务治理大厂冲刺班/名师亲授| https://m.ke.qq.com/course/340397 | 12800 |
 | 179 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDzA2MeFNaL5uxPABdOEuiaia993IibCwiah4FOiaRfdGHHbj4fZJtvVqMW5FSy2I3qCNpc/356) | Python全栈+数据分析+爬虫+AI人工智能-挑战年薪30万【六星教育】 | https://m.ke.qq.com/course/3583292 | 8880 |
 | 180 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDotbFH1PTX4IDKcjlwiceIs1Tp755kU2dwJRhBhwj7H38pR90VvKXB7koB6wjVk2QE/356) | .NET Core+微服务架构实操落地【源码加微信zhaoxi005】 | https://m.ke.qq.com/course/2768929 | 免费 |
 | 181 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDHJGWWxtSLKmGSaAE6wCK66P3hYqpaxic0mtjf4gXsuCf0wSuMlPnqIQltDtkbaVE0/356) | 自媒体引流抖音加粉加好友微信营销网络推广网络赚钱互联网创业 | https://m.ke.qq.com/course/355421 | 免费 |
@@ -205,9 +197,7 @@
 | 195 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLANcEmTTT56gbwWibTCxPCRMDAqHPuiaXQsnokIxia5m8Q6kicLGefaqsZCF2GxfnAibuuw/356) | Develop On Azure【Microservice Architect】源码加微ZhaoXi005 | https://m.ke.qq.com/course/465093 | 免费 |
 | 196 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDKRpLmp4vzUSPaqK0msroeba75c0OjmqWLRhPvicUr3W91t2R0lXaWUM6Y53cyCg3c/356) | Java并发线程池原理源码深入分析与调优实战【图灵课堂】 | https://m.ke.qq.com/course/4000679 | 免费 |
 | 197 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLD9uJCGaibtpTm42Tz6I3wOtTbenTr8l2p1Zcc5PszaUja6tAupiaiabVlsyO0ZDKueMw/356) | 0基础-带你进入Linux世界/运维/云计算/RedHat/Centos【学神】 | https://m.ke.qq.com/course/421493 | 免费 |
-| 198 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLChZ0FOmJADDibtsyW7O3iaUXavAXnWUrYH8u2Ge8R6IeYUibD5ibLewaSwEbCg0GT7b1k/356) |
-软件测试 / 名企定向培养测试开发就业班
-| https://m.ke.qq.com/course/3172125 | 5960 |
+| 198 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLChZ0FOmJADDibtsyW7O3iaUXavAXnWUrYH8u2Ge8R6IeYUibD5ibLewaSwEbCg0GT7b1k/356) |软件测试 / 名企定向培养测试开发就业班| https://m.ke.qq.com/course/3172125 | 5960 |
 | 199 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCsricKQXk790I07aoev4evIM3mjNPPtSPUZ8XYQNrK0giaYPJ55jKaO11SRHhQbWbtw/356) | 思科CCIE EI网工新方向，SDN/SDA/DNA实战专题课【思博网络】 | https://m.ke.qq.com/course/2585538 | 9.9 |
 | 200 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLD2xb6fNUz6M2WoBCIMpofqPxQ2YpmMqUTbs5oug5lKlQM8hPj1LCh4RgPIW1CXQKM/356) | .Net5 抢鲜实战【源码加微信zhaoxi005】 | https://m.ke.qq.com/course/2026579 | 免费 |
 | 201 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLANtZwibwRR1goqH2UzCBnFicAvy53LiaVNMTOZb4iclHa176nvFDRjicPFbXarOtHVVJWY/356) | 秒杀系统基于alibaba微服务组件sentinel限流降级【图灵课堂】 | https://m.ke.qq.com/course/3853513 | 免费 |
@@ -216,9 +206,7 @@
 | 204 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDv0WHg1LJMb46pmTNXHdBia9FbXUV3JTSJDyH6Ip33OSJWnqp7UULAfwj9iaqpeUlYY/356) | Python名师精讲训练营 | https://m.ke.qq.com/course/3612906 | 免费 |
 | 205 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAeiayUaXCqMbR9eaNv3H7kicabNriauhCLXvD235DFiahTFnUKYodicykGcLKCicJXdq8SE/356) | 网络安全/信息安全/黑客/kali/渗透测试/网络攻防/零基础/挖漏洞 | https://m.ke.qq.com/course/3677976 | 免费 |
 | 206 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDRjjuSe6FSp0zPJsib9DyVdYuCLnFicTB5sjP0CNz1A8nnM7cEXEGcop2HyCFxHRlpw/356) | EntityFrameworkCore进阶【 源码领取+微信zhaoxipenny】 | https://m.ke.qq.com/course/2869578 | 免费 |
-| 207 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAZhZEgqcj3M4EprDlmGpbaDR5BzGoIllqtrrVGTibPkHpdowFzfgauibqSw73K3jsQw/356) |
-软件测试之python全栈自动化测试工程师第41期【柠檬班VIP】
-| https://m.ke.qq.com/course/325554 | 6980 |
+| 207 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAZhZEgqcj3M4EprDlmGpbaDR5BzGoIllqtrrVGTibPkHpdowFzfgauibqSw73K3jsQw/356) |软件测试之python全栈自动化测试工程师第41期【柠檬班VIP】| https://m.ke.qq.com/course/325554 | 6980 |
 | 208 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCYNFhjXXXHMQ02gp83NxjfSktkYkCtZiaibeLibNuIQbdLMLPIBW4pUVHVFSUAR1oCNI/356) | C语言/C++安全工程师合集 | https://m.ke.qq.com/course/package/35498#from=courseList | 5980 |
 | 209 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLByOzysGBrj3jx5BdWGXia6x4xwUqFllHsaibeOxGcQTgMy6CxDeIwrQjic0LjUb0DicZY/356) | PMP项目管理必备知识体系，从技术转管理/项目经理【思博盈通】 | https://m.ke.qq.com/course/1047775 | 免费 |
 | 210 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAFPFHlsfDbYJIll3GIXRn520TyKCIrnXgRYxRBcliaa5zMdcqJh51GzLJO87N22ibhU/356) | 阿里巴巴内部Mysql索引性能优化最佳实践【图灵课堂】 | https://m.ke.qq.com/course/2960198 | 免费 |
@@ -269,9 +257,7 @@
 | 255 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLC1nymTAtfGp9KKSibpxiae91TbAgyMvicia4yEAyf2BGwgq8aHuP15vw5pSib9uibGsy8mY/356) | 分布式架构-Redis高并发分布式锁【图灵课堂】 | https://m.ke.qq.com/course/463509 | 免费 |
 | 256 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBNBeHrXT6zHCIRgmibAFZUZISSBrytvnnNduxnoubMm4x9fGuicg4udJSZn6HFXm1wU/356) | Kali/Web安全/白帽子测试/linux-初级课-学神IT | https://m.ke.qq.com/course/416794 | 免费 |
 | 257 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLB3yVy54ianSOonrdZGn0wzv42lS83sWXsOUptL5LWXNHnbl5gkgyO1YAWjvFkANM4E/356) | iOS中高级特训营V13 | https://m.ke.qq.com/course/package/33141#from=courseList | 8880 |
-| 258 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCJbMasBLRNUBBr3CUZZSBAXqZfIaAzia0HUB1aicicfkDfuRNeOkdt0L6teEibA2eQeds/356) |
-【严选课程】前端全栈工程师精英班
-| https://m.ke.qq.com/course/1647350 | 12800 |
+| 258 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCJbMasBLRNUBBr3CUZZSBAXqZfIaAzia0HUB1aicicfkDfuRNeOkdt0L6teEibA2eQeds/356) |【严选课程】前端全栈工程师精英班| https://m.ke.qq.com/course/1647350 | 12800 |
 | 259 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDEcUzO06baobheCytXNicka80URxxv8ky6RUOBfrXvV2nKRUN5jgVGndQ8Qe3CYN4Y/356) | CTF/夺旗赛/网络安全/信息安全比赛/渗透测试/比赛/高校/ | https://m.ke.qq.com/course/3140264 | 免费 |
 | 260 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5aoicTSpvotUfUepKxoLjjVHOeI9GfJcMOsMxEfLdCzJ35faYsyAcuanppjzIe6Ss/356) | JDK类加载机制源码级别深度剖析【图灵课堂】 | https://m.ke.qq.com/course/3098773 | 免费 |
 | 261 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCIwIzYlkQr9DTxxY3zUhoN2SCibG3sNyDm5Ds8RPGluibvZRVibuxuqAlO23BcARqwgs/356) | 网络安全/信息安全/Web安全/黑客/黑客攻防/零基础/渗透 | https://m.ke.qq.com/course/3678311 | 免费 |
@@ -342,9 +328,7 @@
 | 326 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCwwUdicicu6x2nG3HMbicmtRHpgCgicNSPRLic8dhxM6kibr3mhDXicrEEicc1vLEMWuIeicRQ/356) | 2021思科华为双厂商实战课合集 | https://m.ke.qq.com/course/3488442 | 免费 |
 | 327 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCVFCVTWpzUnpicMsMkd5XgpQbmB2CpBDALicqCkP19SdlEWQmsq8lEyV27wREcweE1U/356) | 亿级流量下如何高效的使用MySQL索引【周瑜老师】 | https://m.ke.qq.com/course/3448945 | 免费 |
 | 328 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDwtLmM9jE7gpSXX8sPCHa74fk7jdnMo0ibsWEasCKqkqInW59I7yytowjhRnz0T0aE/356) | 【1元训练营】.NET6微服务电商平台实战 | https://m.ke.qq.com/course/4001437 | 1 |
-| 329 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBYkDr0ka69IS0DxElcic9CtyqdHZt3r1Sy2UuZDG6wPn3stqqjhsovnAB3vuGDRRKo/356) |
-【直播班】Python运维自动化与DevOps项目特训班
-| https://m.ke.qq.com/course/458302 | 12800 |
+| 329 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBYkDr0ka69IS0DxElcic9CtyqdHZt3r1Sy2UuZDG6wPn3stqqjhsovnAB3vuGDRRKo/356) |【直播班】Python运维自动化与DevOps项目特训班| https://m.ke.qq.com/course/458302 | 12800 |
 | 330 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCOIqlepDWYDYb1FLUsD8ZPBofpt4MhZSPdRmnPTpvfibpEeK3VenU0MicO2dFSwqqZE/356) | Kali/渗透测试/网络安全/测试/信息安全/ctf/零基础/Web安全 | https://m.ke.qq.com/course/3518371 | 免费 |
 | 331 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDibdW8jFO4xEQ2hBVLtNZyeIQTd1bWbPFtgOIBkrTP1UOza2KibiamOecW0mWBnULmqI/356) | 思科华为昨日录屏 | https://m.ke.qq.com/course/3450608 | 免费 |
 | 332 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBuDFnZhwubaKCwksJpAc0EUicuCJmhibQNFlgiamV5Cwz6ia6icWcV2MXwcAS0tUz2enaw/356) | 京东面试一面：面试突击BATJ等一线大厂面试真题【图灵课堂】 | https://m.ke.qq.com/course/3613485 | 免费 |
@@ -395,9 +379,7 @@
 | 377 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAuTQ4dHavCnicyYJkxPiaALbVnyibYFMSVORmIAIbBJTtuJX6YPdsK10ziakURc5ib0WRc/356) | Linux运维架构/云计算/centos/堡垒机/Jumpserver/学神 | https://m.ke.qq.com/course/424260 | 免费 |
 | 378 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDlPkKlalDXU387DmXniae9zNOx6iareQlYacibiasnEibIYICeWiboadkZOBFq4NozTjuD4/356) | 2021最新版HCIA/CCNA精品实战课之OSPF协议-下和VLAN开篇 | https://m.ke.qq.com/course/3489491 | 免费 |
 | 379 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBdeA7pf9uZKWHxWz6WNlHtDyicucMqCfGSADo0U570Yhwja4cwvI4Wm51efpibYfZ1o/356) | 周哥教IT.C/C++逆向基础课包 | https://m.ke.qq.com/course/package/23444#from=courseList | 498 |
-| 380 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBTcgwWYtLaicic2hTlBs71ro6WRc4icXxsJIOBibsQMdFzUgL9alYDb1uVKVHyzQFnVibA/356) |
-马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发
-| https://m.ke.qq.com/course/406096 | 9800 |
+| 380 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBTcgwWYtLaicic2hTlBs71ro6WRc4icXxsJIOBibsQMdFzUgL9alYDb1uVKVHyzQFnVibA/356) |马哥高端Go语言百万并发高薪班/微服务/分布式高可用/Go高并发| https://m.ke.qq.com/course/406096 | 9800 |
 | 381 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAjNbFWvH8a7U06UWSwyhCAzkblTd0pvs6t9bkwGGzdmeCA10jxA27Xc5RYlF4Xiams/356) | 阿里面试一面：BATJ等一线大厂面试真题助你面试突击【图灵课堂】 | https://m.ke.qq.com/course/3580061 | 免费 |
 | 382 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBdib0VtMdTSuExw7dkVYNEmVxhb8BEiaSUNRCV1cMYkdsW5UIuX3lrWV4fEtStUuWWk/356) | K8s/Linux/Docker/-使用kubectl管理kubernetes容器平台 | https://m.ke.qq.com/course/3549851 | 免费 |
 | 383 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBapsJYhSIJfeadlCSMpibibDftPWXsfX45uAaQoehnfR92wwJVe9jOScXuHjhicup7ec/356) | 2021最新版HCIA/CCNA精品实战课之静态路由+动态介绍 | https://m.ke.qq.com/course/3489478 | 免费 |
@@ -487,9 +469,7 @@
 | 467 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDDWkhsYbibbelQfroDtKumD6u9T4butgxUficbxicFiapSu3ojyaibQ4aFxuNtwwqRSlM0/356) | 信息系统项目管理师-应试宝典 | https://m.ke.qq.com/course/package/22418#from=courseList | 598 |
 | 468 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBa5XrtICXBuvMnuoaOGCdEu4eYhQgRFdchYZREb1C3SqK9JlFR1wcWbPmIia7myq5s/356) | Linux高级运维/云计算/centos/LVM/RAID/文件系统/磁盘/ssm/学神 | https://m.ke.qq.com/course/423403 | 免费 |
 | 469 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCBBd81eiaWLopic2Hpog8vcQl3oF3V2hXAyomJOnNCxO6u1L4Zp29MXXaWBVBykMEDc/356) | 2021最新版HCIA/CCNA精品实战课之动态路由介绍+EIGRP协议 | https://m.ke.qq.com/course/3489481 | 免费 |
-| 470 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLByibwrS38WtPW0AVia7J13fvYlRyqm4O8gMGqnGs7Mmb1ohMQJlR58bXQg78a8QxGmI/356) |
-【严选课程】Java互联网架构师系统进阶课程（VIP） 【享学课堂】
-| https://m.ke.qq.com/course/287404 | 11680 |
+| 470 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLByibwrS38WtPW0AVia7J13fvYlRyqm4O8gMGqnGs7Mmb1ohMQJlR58bXQg78a8QxGmI/356) |【严选课程】Java互联网架构师系统进阶课程（VIP） 【享学课堂】| https://m.ke.qq.com/course/287404 | 11680 |
 | 471 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCLvElSqniaJsXbcicuPLqWibM2a5ia9hytWwMTFmJSqMkPibeDZz06Ttje8TEkhIDZsxKc/356) | Redis使用精髓-String、Hash、List、Set、巧妙构建微博与微信 | https://m.ke.qq.com/course/447001 | 免费 |
 | 472 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCYCibILeFlS701H0VxOxicicaBW3aLvNFXPwnqgo6YVzicwz1se8FiamKky1ubMicN838ib4/356) | 实战-60分钟搭建DVWA专有靶场并使用蚁剑获取webshell | https://m.ke.qq.com/course/1129560 | 免费 |
 | 473 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAkBpGpgcHUbONicBc0kBHFoD7r8LxhrHOVur0ca8rtlP5qHib2FZqflicgLL6RkcB8gY/356) | CCNA网络精品课之EIGRP | https://m.ke.qq.com/course/181016 | 免费 |
@@ -643,9 +623,7 @@
 | 621 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCxWicmicZHrYpcibhbCJNMlop9WN1GAy0Z9EN0Y2mWHP46PeuhzgvIhhf2rbSSl1zsMU/356) | 软件测试 / Python 编程语言【霍格沃兹】 | https://m.ke.qq.com/course/3451092 | 3000 |
 | 622 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCiasCbCOIgbPzWFZfic2NfEJNKFHYB5OtqvTGicXBiciaxT5jnMNqawicuzFP9Pl3KoKGL4/356) | Linux基础实训课 | https://m.ke.qq.com/course/414712 | 0.02 |
 | 623 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCa18Y4Oyccop9AvwIowh6qXmICCjPpgxFl3cndicK5euChibQlz9PmvoTsxV51n6hPM/356) | 腾讯社群运营基础（东莞） | https://m.ke.qq.com/course/4033187 | 9999 |
-| 624 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLD8y1omHHWvVhKnyaymBIS4QQORVu56Nq0Ug4qh5hiaseRB09qzKl28Tz89ib8QjcZMA/356) |
-2021马哥全新Linux云计算就业+架构套餐班
-| https://m.ke.qq.com/course/package/29428#from=courseList | 10800 |
+| 624 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLD8y1omHHWvVhKnyaymBIS4QQORVu56Nq0Ug4qh5hiaseRB09qzKl28Tz89ib8QjcZMA/356) |2021马哥全新Linux云计算就业+架构套餐班| https://m.ke.qq.com/course/package/29428#from=courseList | 10800 |
 | 625 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLA5c9BnkK7AdUuvGPnojAaLRq0gDqKibib9vF4n4PibfH67wk0HJdVs3CAjnHKgIbXvwU/356) | web全栈开发-企业级开发专题【六星教育】 | https://m.ke.qq.com/course/251215 | 9880 |
 | 626 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDhTFaPDHNb79XcVCuE7DLo49jUDhR4RvTUKncxLXtZ5qslwRzpXHJNNibKicpZdjweU/356) | 红帽Linux认证RHCE基础班【SPOTO思博】 | https://m.ke.qq.com/course/3853318 | 299 |
 | 627 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCL8e3rsvFhG2NJKhuPCWIAPtORYr3VRErgIBoN8EKxcEJJNl5eIl1SZGKOjCmks1I/356) | 软件测试 / 名企定向培养高级测试开发进阶班 | https://m.ke.qq.com/course/348893 | 12000 |
@@ -662,21 +640,15 @@
 | 638 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCH8G2jecZRVaLTtiaemsAQpibqaFWCfLoTqvziaKeP3HrkCNN2SwO2JxMVyF1XXw53HI/356) | python自动化测试第44期 | https://m.ke.qq.com/course/package/37745#from=courseList | 6980 |
 | 639 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCoqTa81CXuzH2AztyGc3ALG49DibibIemI4t7hLHuQthqVuS5GgnpfMCW9tCbhhKbEg/356) | Java互联网架构师之路/微服务/高性能/分布式/底层源码/高并发 | https://m.ke.qq.com/course/1103217 | 6899 |
 | 640 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAARDLaqTic16x29UweyuWfCmSYwKfmGAqicDAQkwwwuVfaP1OuAwN31dR3zEyeY1dEU/356) | php-swoole多任务处理中心项目实战-PHP高级开发 架构师进阶-六星 | https://m.ke.qq.com/course/415809 | 9.9 |
-| 641 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLC59jcuo9iao26ZXMfTWtt6PDiaBdzH1wSX4tNe2GaobeOJAniayYddAQtuGeiaLCJGPn4/356) |
-Web前端工程师培养计划 LEVEL ONE
-| https://m.ke.qq.com/course/3454970 | 7299 |
+| 641 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLC59jcuo9iao26ZXMfTWtt6PDiaBdzH1wSX4tNe2GaobeOJAniayYddAQtuGeiaLCJGPn4/356) |Web前端工程师培养计划 LEVEL ONE| https://m.ke.qq.com/course/3454970 | 7299 |
 | 642 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAh10WDx8GvsWZnaBn4gRuHoThGRmJuzWmJZliclQ3AeVYjCOHxbmGlO6LTF0M92PR4/356) | python自动化测试第46期 | https://m.ke.qq.com/course/package/39230#from=courseList | 6980 |
 | 643 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDaYOWyRlUPy2MP8iapEZsKKd1FL66EmaFOjQJAicvX7BuB5y1mnCGwpK0wEbdgrQiaiaY/356) | XCIE 精英全栈课程 | https://m.ke.qq.com/course/2585739 | 20800 |
 | 644 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBWQI9dWbibmbvCSwYV5DWH40DpHGfriaxjAjRPLGEcOIXhyiaEbXc5zIHibGdfCvhpDWw/356) | 《全国计算机一级》excel篇：2022年通关教程（适用2021年12月） | https://m.ke.qq.com/course/136813 | 12 |
-| 645 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDpzGiaicRq6Quc1cADQurL202xVic1rAl5Z6k8q60wKmCUqcObnNwRPaC7NFR1HL4R2I/356) |
-90天互联网运营实战班，人人都能掌握来自BAT的实战秘籍
-| https://m.ke.qq.com/course/3615397 | 3499 |
+| 645 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDpzGiaicRq6Quc1cADQurL202xVic1rAl5Z6k8q60wKmCUqcObnNwRPaC7NFR1HL4R2I/356) |90天互联网运营实战班，人人都能掌握来自BAT的实战秘籍| https://m.ke.qq.com/course/3615397 | 3499 |
 | 646 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDWNiaGhMibtAT9sWSxWht4dtpgzxRVBxsSuncFlnCvuk7SEumYMEMaBZOj4ZOELZFtw/356) | python自动化测试第43期 | https://m.ke.qq.com/course/package/37051#from=courseList | 6980 |
 | 647 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAlu225sMrqibUoGT2u9Y3Lhzgz80iagFFqCDPdv8XvjfyflBVzPAEU58LDW2icfPDMOY/356) | iOS 最具学习潜力框架—Metal 图形处理入门 | https://m.ke.qq.com/course/438798 | 9.9 |
 | 648 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCgxZiaZIqKiaRzD2PoOVzuyTY00piaNndR7j6aGwBqpcN6UX8EYlNC1LPfMsS0GddlJA/356) | 90天产品实战班，零基础成就靠谱产品经理 | https://m.ke.qq.com/course/4002514 | 3499 |
-| 649 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDR0IeMdZQrcBspuz6XCxazWo7RkJWdpAmhxdQHvjMKfvBggc1EcmG0AGMnicLSomC8/356) |
-软件测试从小白到高手全程班【柠檬班】第88期
-| https://m.ke.qq.com/course/326208 | 7980 |
+| 649 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLDR0IeMdZQrcBspuz6XCxazWo7RkJWdpAmhxdQHvjMKfvBggc1EcmG0AGMnicLSomC8/356) |软件测试从小白到高手全程班【柠檬班】第88期| https://m.ke.qq.com/course/326208 | 7980 |
 | 650 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLB83egjzmJnC50XuklSOjZwdFvhdps8Lhia8XHTBjnAkj4sQy8b7JDCicPrDyYGcPMjs/356) | 函数响应式框架-RxSwift | https://m.ke.qq.com/course/428425 | 9.9 |
 | 651 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLCUFyj3FOHx7qG5jVMtPv9zVjSoohAqCphd06HbJ5Rx3Kyxl5MGNibVscYkJPvDwjiac/356) | 软件测试 / 移动端 app 自动化测试进阶与实战 | https://m.ke.qq.com/course/3736942 | 3000 |
 | 652 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLC8WfYicVUiaFxkZ8MOhvfaT1wib8Ydu0qvrtCHaQjV1ZVjsic8UfLM2zNYMkFWyLXkBVo/356) | python自动化测试第45期 | https://m.ke.qq.com/course/package/38653#from=courseList | 6980 |
@@ -687,9 +659,7 @@ Web前端工程师培养计划 LEVEL ONE
 | 657 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBVuOeBFKfLpoGOyBF7cDXiacHDCo729vYGTQKGPjS4IFC6phW9Fic1kEsB8Heiblv1I4/356) | .NET/C#上位机VIP系统学习班【新阁教育】 | https://m.ke.qq.com/course/289623 | 6299 |
 | 658 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBCqKIfz85KfTCQqricBcl7qicmDlZ1svmOhYOkiaePg85XGJljx0xyAFUWzbkezPnGzI/356) | python自动化测试第47期 | https://m.ke.qq.com/course/package/39646#from=courseList | 6980 |
 | 659 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLBQmibYwBqTeVhAAgXgPlPVr9SbiaWvOro81ayKnnzQCsfnSFyyGAib7Gplk8ic0AKSbiaE/356) | 学神Linux高薪运维云计算全程班/全程直播 | https://m.ke.qq.com/course/3420548 | 6970 |
-| 660 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLC7UdxWmVj5o3AHhJ8vpb73HvZo4WdaqOkgjzicWJrn5yZ64jLBIb112OF5XcBnXibUI/356) |
-【图灵VIP严选课程】JAVA互联网架构师专题/分布式/高并发/微服务
-| https://m.ke.qq.com/course/231516 | 12880 |
+| 660 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLC7UdxWmVj5o3AHhJ8vpb73HvZo4WdaqOkgjzicWJrn5yZ64jLBIb112OF5XcBnXibUI/356) |【图灵VIP严选课程】JAVA互联网架构师专题/分布式/高并发/微服务| https://m.ke.qq.com/course/231516 | 12880 |
 | 661 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAVTm1aIeXPicN1gmQ2aVPGt2ejnFW1hH49gNPINibNWMj8BROmkSVEhE41R1m9kons0/356) | BP神经网络与卷积神经网络系列视频课程及程序详解 | https://m.ke.qq.com/course/package/40066#from=courseList | 301 |
 | 662 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAqf1zKA53TPZAdprcB62Zz7Uho69h6vvpQCicn34sZAAYygjvMP4N0w7GyeDVyNYhw/356) | Java互联网架构师高薪实战课 | https://m.ke.qq.com/course/package/33062#from=courseList | 7899 |
 | 663 | ![img](https://10.idqqimg.com/qqcourse_logo_ng/ajNVdqHZLLAAiaq2pkAVXTWv6XbVe86UCMs1zDwB28Q7ZpP6e01QcgGI2mqRow5ER9XQNwDicFibX8/356) | 【图灵VIP课堂】2020最新JAVA百万年薪P7架构黄埔班（持续更新） | https://m.ke.qq.com/course/2837948 | 8980 |
