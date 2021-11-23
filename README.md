@@ -2,14 +2,14 @@
 
 
 
-- [x] 慕课网https://www.imooc.com (共4223) (2021-11-20目录更新,全站资源更新完毕)
+- [x] 慕课网 https://www.imooc.com (共4223) (2021-11-20目录更新,全站资源更新完毕)
   - [x] [免费课](./imooc/free.md) (790)
   - [x] [实战课](./imooc/shizhan.md) (282)
   - [x] [体系课](./imooc/tixi.md) (15)
-- [x] 网易云课堂https://study.163.com (共13661) (2021-11-21目录更新,全站资源更新完毕)
+- [x] 网易云课堂 https://study.163.com (共13661) (2021-11-21目录更新,全站资源更新完毕)
   - [x] [免费课](./study163/free.md) (4223)
   - [x] [VIP课](./study163/vip.md) (9438)
-- [x] 极客时间https://time.geekbang.org (共1600) (2021-11-23目录更新,全站资源更新完毕)
+- [x] 极客时间 https://time.geekbang.org (共1600) (2021-11-23目录更新,全站资源更新完毕)
   - [x] 讲堂课程 (小计217)
     - [x] [专栏](./jikeshijian/zhuanlan.md) (174)
     - [x] [视频课](./jikeshijian/shipin.md) (43)
@@ -26,7 +26,7 @@
     - [x] 个人成长 (217)
   - [x] [大厂案例](./jikeshijian/dachanganli.md) (233)
   - [x] [训练营](./jikeshijian/xunlianying.md) (8)
-- [x] 腾讯课堂 (2021-11-23目录更新,全站资源更新完毕)
+- [x] 腾讯课堂 https://ke.qq.com (共798) (2021-11-23目录更新,全站资源更新完毕)
   - [x] [IT·互联网](./keqq/ithulianwang.md) (798)
 - [ ] 图灵学院
 - [ ] 博学谷
