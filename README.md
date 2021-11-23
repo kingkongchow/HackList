@@ -24,7 +24,7 @@
     - [x] 人文/兴趣 (12)
     - [x] 面试专场 (15)
     - [x] 个人成长 (217)
-  - [x] 大厂案例
+  - [x] [大厂案例](./jikeshijian/dachanganli.md) (233)
   - [x] [训练营](./jikeshijian/xunlianying.md) (8)
 - [ ] 图灵学院
 - [ ] 博学谷
