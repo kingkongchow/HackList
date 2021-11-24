@@ -28,7 +28,7 @@
   - [x] [训练营](./jikeshijian/xunlianying.md) (8)
 - [x] 腾讯课堂 https://ke.qq.com (共798) (2021-11-23目录更新,全站资源更新完毕)
   - [x] [IT·互联网](./keqq/ithulianwang.md) (798)
-- [x] 拉钩教育 https://edu.lagou.com (2021-11-24目录更新)
+- [x] 拉钩教育 https://edu.lagou.com (共267) (2021-11-24目录更新,全站资源更新完毕)
   - [x] [专栏](./lagou/zhuanlan.md) (103)
     - [x] 后端&架构 (46)
     - [x] 前端&移动 (23)
@@ -39,7 +39,7 @@
     - [x] 测试&运维 (15)
     - [x] 职场&管理 (8)
     - [x] 学生&入门 (15)
-  - [x] 8点一课
+  - [x] [8点一课](./lagou/8dian1ke.md) (96)
   - [x] [公开课](./lagou/gongkaike.md) (53)
   - [x] 训练营 (15)
     - [x] Java工程师高薪训练营
