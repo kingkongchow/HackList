@@ -1,4 +1,4 @@
-| 序号 | 图片 | 标题 | 简介 |
+| 序号 | 图片 | 标题 | 链接 |
 | ---- | ---- | ---- | ---- |
 | 1 | ![img](http://wechatapppro-1252524126.file.myqcloud.com/appgpn9idwb6991/image/compress/640480749km4ihau70xpf.jpg) | 【图灵课堂】深入Hotspot源码与Linux内核理解NIO与Netty线程模型 | https://vip.tulingxueyuan.cn/detail/p_6049bd9fe4b0e51d821d0a4d/6 | 
 | 2 | ![img](http://wechatapppro-1252524126.file.myqcloud.com/appgpn9idwb6991/image/compress/640480112klutbwb208um.jpg) | 【图灵课堂】mybatis源码分析 | https://vip.tulingxueyuan.cn/detail/p_6040cae3e4b05a6195bcd770/6 | 
