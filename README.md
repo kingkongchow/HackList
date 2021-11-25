@@ -75,7 +75,7 @@
     - [x] 代码人生
     - [x] 阅读
 - [x] 图灵学院 https://vip.tulingxueyuan.cn (共XXX) (2021-11-25目录更新,全站资源更新完毕)
-  - [x] 精品课
+  - [x] [精品课](./tulingxueyuan/jingpingongkaike.md) (25)
   - [x] 体系课
   - [x] 公开课
   - [x] VIP课程系列 (6)
