@@ -77,7 +77,7 @@
 - [x] 图灵学院 https://vip.tulingxueyuan.cn (共XXX) (2021-11-25目录更新,全站资源更新完毕)
   - [x] 精品课
     - [x] [精品公开课](./tulingxueyuan/jingpingongkaike.md) (25)
-    - [x] [VIP拓展课](./tulingxueyuan/viptuozhan.md) (25)
+    - [x] [VIP拓展课](./tulingxueyuan/viptuozhanke.md) (25)
     - [x] [图灵VIP课](./tulingxueyuan/tulingvipke.md) (23)
     - [x] [鲁班二期](./tulingxueyuan/lubanerqi.md) (20)
     - [x] [鲁班三期](./tulingxueyuan/lubansanqi.md) (9)
