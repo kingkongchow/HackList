@@ -74,7 +74,7 @@
     - [x] 开发工具
     - [x] 代码人生
     - [x] 阅读
-- [x] 图灵学院 https://vip.tulingxueyuan.cn (共113) (2021-11-25目录更新,全站资源更新完毕)
+- [x] 图灵学院 https://vip.tulingxueyuan.cn (共131) (2021-11-26目录更新,全站资源更新完毕)
   - [x] 精品课 (107)
     - [x] [精品公开课](./tulingxueyuan/jingpingongkaike.md) (25)
     - [x] [VIP拓展课](./tulingxueyuan/viptuozhanke.md) (25)
