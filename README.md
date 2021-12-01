@@ -56,7 +56,7 @@
       - [x] [Go](./keqq/htkf_go.md) (97)
       - [x] [C#/.Net](./keqq/htkf_cnet.md) (582)
       - [x] [PHP](./keqq/htkf_php.md) (800+)
-      - [x] [其他](./keqq/htkf_qita.md) (465)
+      - [x] [其他](./keqq/htkf_qita.md) (800+)
     - [x] Python ()
       - [x] [数据爬虫](./keqq/python_shujupachong.md) (272)
       - [x] [办公自动化](./keqq/python_bangongzidonghua.md) (70)
