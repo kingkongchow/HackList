@@ -256,6 +256,7 @@
     - [x] Java高级 (3)
   - [x] 面试突击课 (5)
 - [x] 马哥教育 https://www.magedu.com
+- [x] SiKi学院 http://www.sikiedu.com
 - [ ] 博学谷
 - [ ] 大厂学院
 - [ ] 黑马程序员
