@@ -12,7 +12,7 @@
 - [x] 极客时间 https://time.geekbang.org (共1600) (2021-11-23目录更新,全站资源更新完毕)
   - [x] 讲堂课程 (小计217)
     - [x] [专栏](./jikeshijian/zhuanlan.md) (174)
-    - [x] [视频课](./jikeshijian/shipin.md) (43)
+    - [x] [视频课](./jikeshijian/shipinke.md) (43)
   - [x] [每日一课](./jikeshijian/dailylesson.md) (小计1142)
     - [x] 前端/移动 (106)
     - [x] 计算机基础 (19)
